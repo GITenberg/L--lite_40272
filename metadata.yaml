@@ -1,0 +1,37 @@
+_repo: L--lite_40272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rodenbach, Georges
+    alias: Rodenbach, Georges (Georges-Raymond-Constantin)
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '5747'
+    url: http://www.gutenberg.org/2009/agents/5747
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Rodenbach
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2012-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40272'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 19th century'
+- !lcsh 'Artists -- France'
+- !lcc 'PQ'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+tableOfContents: 'ÉCRIVAINS: Beaudelaire. Les Goncourt. Stéphane Mallarmé. Les Rosny.
+  Verlaine. Villiers de l''Isle-Adam. Hugo. Alph. Daudet. Valmore. M. J. K. Huysmans.
+  Lamartine. M. Octave Mirbeau. Brizeux. M. Anatole France. M. Mistral. M. Pierre
+  Loti -- ORATEURS SACRÉS: P. Monsabré. Mgr d''Hulst -- PEINTRES: M. Puvis de Chavannes.
+  M. Albert Besnard. M. Eugène Carrière. M. Jules Chéret. M. Claude Monet. M. J.-P.
+  Raffaëlli. M. James Whistler -- SCULPTEURS: M. Rodin.'
+title: 'L''élite: écrivains, orateurs sacrés, peintres, sculpteurs'
+url: http://www.gutenberg.org/ebooks/40272
